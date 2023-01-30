@@ -1,4 +1,4 @@
-<h1>Hey there, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/acrumx/">BLANK Professional</a></h1>
+<h1>Hey there, I'm Austin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/acrumx/">Data Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
