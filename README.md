@@ -21,7 +21,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="acrumx | CodeWars" width="22px" src="https://code.iconify.design/iconify-icon/1.0.2/iconify-icon.min.js" />][codewars]
+[<img align="left" alt="acrumx | CodeWars" width="22px" height="22px" src="https://code.iconify.design/iconify-icon/1.0.2/iconify-icon.min.js" />][codewars]
 
 
 [linkedin]: https://linkedin.com/in/acrumx
