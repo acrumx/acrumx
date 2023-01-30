@@ -9,7 +9,7 @@
 - <b>Python</b>
   - [Python Scripts](https://github.com/acrumx/Python-Script-Collection)
 
-<h2> 🤳 Connect with me:</h2>
+<h2>🔗 Connect With Me:</h2>
 
 [<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acrumx | CodeWars" width="22px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][codewars]
