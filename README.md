@@ -22,7 +22,7 @@
 
 [<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acrumx | CodeWars" width="22px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][codewars]
-[<img align="left" alt="acrumx | HackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png" />][codewars]
+[<img align="left" alt="acrumx | HackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png" />][hackerrank]
 
 [linkedin]: https://linkedin.com/in/acrumx
 [codewars]: https://www.codewars.com/users/acrumx
