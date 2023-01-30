@@ -21,6 +21,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<iconify-icon icon="simple-icons:codewars" style="color: red;"></iconify-icon>
 
 [linkedin]: https://linkedin.com/in/acrumx
 
