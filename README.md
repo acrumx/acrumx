@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algos in Python](https://github.com/acrumx/Python-Code-Practice)
+  - [Practicing DS & Algorithms in Python](https://github.com/acrumx/Python-Code-Practice)
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/acrumx/)
