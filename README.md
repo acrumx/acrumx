@@ -8,6 +8,7 @@
   - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/acrumx/)
+  - [Python Scripts](https://github.com/acrumx/Python-Script-Collection)
 
 <h2> 🤳 Connect with me:</h2>
 
