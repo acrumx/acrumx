@@ -1,7 +1,8 @@
 <h1>Hey there, welcome to my GitHub! <br/><a href="https://github.com/acrumx">Data Scientist</a> & <a href="https://www.linkedin.com/in/acrumx/">Software Developer</a></h1>
 
 <h2>👨‍🔬💾 Data Science Projects:</h2>
-
+- <b>IBM SPSS Modeler Data Projects</b>
+  -[Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
