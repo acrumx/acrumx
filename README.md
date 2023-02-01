@@ -7,7 +7,7 @@
 - <b>Microsoft Excel</b>
   - [Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
 - <b>R</b>
-<!--   - []() -->
+  - [](https://github.com/acrumx/R)
 - <b>SQL</b>
   - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>IBM SPSS Modeler</b>
