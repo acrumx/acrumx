@@ -5,6 +5,7 @@
 - <b>IBM SPSS Modeler</b>
   - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
   - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
+  - [Machine Learning Regression Analysis](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/Regression%20Analysis)
 - <b>Python Data Visualization</b>
 <!--   - [Matplotlib] () -->
 <h2>👨‍💻 Software Development Projects:</h2>
