@@ -5,6 +5,7 @@
 - <b>Python Data Visualization</b>
 <!--   - [Matplotlib] () -->
 - <b>Microsoft Excel</b>
+  -[Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
 - <b>R</b>
 
 - <b>IBM SPSS Modeler</b>
