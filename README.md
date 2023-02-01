@@ -5,9 +5,11 @@
 - <b>Python Data Visualization</b>
 <!--   - [Matplotlib] () -->
 - <b>Microsoft Excel</b>
-  -[Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
+  - [Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
 - <b>R</b>
-
+<!--   - []() -->
+- <b>SQL</b>
+  - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>IBM SPSS Modeler</b>
   - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
   - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
@@ -20,8 +22,6 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Practicing DS & Algorithms in Python](https://github.com/acrumx/Python-Code-Practice)
-- <b>SQL Query Practice</b>
-  - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>Python</b>
   - [Python Scripts](https://github.com/acrumx/Python-Script-Collection)
 
