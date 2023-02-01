@@ -2,12 +2,13 @@
 
 <h2>👨‍🔬💾 Data Science Projects:</h2>
 
-- <b>Python Data Visualization</b>
-<!--   - [Matplotlib] () -->
+- <b>Python</b>
+  - [Data Cleaning]()
+  - [Data Visualization]()
 - <b>Microsoft Excel</b>
   - [Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
 - <b>R</b>
-  - [](https://github.com/acrumx/R)
+  - [R Data Analysis](https://github.com/acrumx/R)
 - <b>SQL</b>
   - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>IBM SPSS Modeler</b>
