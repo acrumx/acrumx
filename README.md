@@ -2,13 +2,19 @@
 
 <h2>👨‍🔬💾 Data Science Projects:</h2>
 
+- <b>Python Data Visualization</b>
+<!--   - [Matplotlib] () -->
+- <b>Microsoft Excel</b>
+- <b>R</b>
+
 - <b>IBM SPSS Modeler</b>
   - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
   - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
   - [Machine Learning Regression Analysis](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/Regression%20Analysis)
   - [Forecasting]()
-- <b>Python Data Visualization</b>
-<!--   - [Matplotlib] () -->
+
+
+
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
