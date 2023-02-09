@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Austin! Welcome to my GitHub. <br/><a href="https://github.com/acrumx">Data Scientist</a> & <a href="https://www.linkedin.com/in/acrumx/">Software Developer</a></h1>
 
-<h2>👨‍🔬💾 Data Science Skills:</h2>
+<h2>Skills:</h2>
 
 - <b>Python</b>
   - [Data Cleaning]()
