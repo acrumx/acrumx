@@ -1,6 +1,6 @@
 <h1>Hi there, I'm Austin! Welcome to my GitHub. <br/><a href="https://github.com/acrumx">Data Scientist</a> & <a href="https://www.linkedin.com/in/acrumx/">Software Developer</a></h1>
 
-<h2>👨‍🔬💾 Data Science Projects:</h2>
+<h2>👨‍🔬💾 Data Science Skills:</h2>
 
 - <b>Python</b>
   - [Data Cleaning]()
@@ -12,7 +12,6 @@
 - <b>SQL</b>
   - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
 - <b>Tableau</b>
-  - []()
 - <b>IBM SPSS Modeler</b>
   - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
   - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
