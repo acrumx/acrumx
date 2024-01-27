@@ -29,8 +29,10 @@
   - [Python Scripts](https://github.com/acrumx/Python-Script-Collection)
 
 <h2>🌱 I’m currently learning ...</h2>
+
 - <b>C++ - Follow My Journey Here 👇</b>
   - [Learning C++](https://github.com/acrumx/LearningCPP)
+
 <h2>🔗 Connect With Me:</h2>
 
 <!--[<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />][linkedin] -->
