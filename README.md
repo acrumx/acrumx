@@ -40,7 +40,7 @@
 [<img align="left" alt="acrumx | HackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png" />][hackerrank]
 
 <!-- [linkedin]: https://linkedin.com/in/acrumx -->
-[codewars]: https://www.codewars.com/users/acrumx
+<!-- [codewars]: https://www.codewars.com/users/acrumx -->
 [hackerrank]: https://www.hackerrank.com/acrumx?hr_r=1
 <!--
 **acrumx/acrumx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
