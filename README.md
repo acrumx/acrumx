@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Austin! Welcome to my GitHub. <br/><a href="https://github.com/acrumx">Business Analyst</a> & Data Analyst<a href=">Software Developer</a></h1>
+<h1>Hi there, I'm Austin! Welcome to my GitHub. <br/><a href="https://github.com/acrumx">Data Scientist</a> & <a href="https://www.linkedin.com/in/acrumx/">Software Developer</a></h1>
 
 <h2>Current Skillset:</h2>
 
