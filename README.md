@@ -20,7 +20,7 @@
 
 
 - <b>C++
-  - Follow My Journey Learning C++ [Here](https://github.com/acrumx/LearningCPP)👈</b>
+  - [Follow My Journey Learning C++](https://github.com/acrumx/LearningCPP)👈</b>
 
 <h2>Wanna Learn More?:🔗</h2>
 
