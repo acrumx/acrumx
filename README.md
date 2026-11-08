@@ -24,8 +24,9 @@
 
 <h2>Wanna Learn More?:🔗</h2>
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="20px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />](https://www.linkedin.com/in/austin-c-945b11449/)
-[<img align="left" alt="Hackerrank | HackerRank" height="20px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/profile/acrumx)
+[<img align="left" alt="LinkedIn | LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />](https://www.linkedin.com/in/austin-c-945b11449/)
+[<img align="left" alt="Hackerrank | HackerRank" height="40px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/profile/acrumx)
+
 ![Codewars Badge](https://www.codewars.com/users/acrumx/badges/large)
 
 <!--
