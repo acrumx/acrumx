@@ -41,7 +41,7 @@
 
 <!-- [linkedin]: https://linkedin.com/in/acrumx -->
 <!-- [codewars]: https://www.codewars.com/users/acrumx -->
-[CodeWars]: https://www.codewars.com/users/acrumx/badges/large
+![Codewars Badge](https://www.codewars.com/users/acrumx/badges/large)   
 [hackerrank]: https://www.hackerrank.com/acrumx?hr_r=1
 <!--
 **acrumx/acrumx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
