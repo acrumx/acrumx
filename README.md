@@ -3,8 +3,8 @@
 
 
 - <b>Python</b>
-  - [Data Cleaning]()
-  - [Data Visualization]()
+  - [Practicing DS & Algorithms in Python](https://github.com/acrumx/Python-Code-Practice)
+  - [Script Collection](https://github.com/acrumx/Python-Script-Collection)
 - <b>Microsoft Excel</b>
   - [Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
 - <b>R</b>
@@ -17,23 +17,12 @@
   - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
   - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
   - [Machine Learning Regression Analysis](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/Regression%20Analysis)
-  - [Forecasting]()
 
 
+- <b>C++
+  - Follow My Journey Learning C++ [Here](https://github.com/acrumx/LearningCPP)👈</b>
 
-<h2>👨‍💻 Projects I've Worked On:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Practicing DS & Algorithms in Python](https://github.com/acrumx/Python-Code-Practice)
-- <b>Python</b>
-  - [Python Scripts](https://github.com/acrumx/Python-Script-Collection)
-
-<h2>🌱 I’m currently learning ...</h2>
-
-- <b>C++ - Follow My Journey Here 👇</b>
-  - [Learning C++](https://github.com/acrumx/LearningCPP)
-
-<h2>🔗 Connect With Me:</h2>
+<h2>Wanna Learn More?:🔗</h2>
 
 [<img align="left" alt="LinkedIn | LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />](https://www.linkedin.com/in/austin-c-945b11449/)
 [<img align="left" alt="Hackerrank | HackerRank" height="40px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/profile/acrumx)
