@@ -1,6 +1,6 @@
-<h1>Hello there! My name is Austin & welcome to my GitHub portfolio. <br/><a href="https://github.com/acrumx">Data Scientist</a> & <a href="https://www.linkedin.com/in/acrumx/">Software Developer</a></h1>
+<h1>Welcome to Austin's GitHub. 👋 Austin is currently in the lab working on some exciting projects. Follow for updates! <br/><a href="https://github.com/acrumx"></h1>
 
-<h2>Current Skillset:</h2>
+
 
 - <b>Python</b>
   - [Data Cleaning]()
@@ -35,12 +35,8 @@
 
 <h2>🔗 Connect With Me:</h2>
 
-<!--[<img align="left" alt="acrumx | LinkedIn" width="22px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />][linkedin] -->
-<!-- [<img align="left" alt="acrumx | CodeWars" width="22px" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" />][codewars] -->
-[<img align="left" alt="acrumx | HackerRank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-48.png" />][hackerrank]
-[hackerrank]: https://www.hackerrank.com/acrumx?hr_r=1
-<[linkedin]: [https://linkedin.com/in/acrumx](https://www.linkedin.com/in/austin-c-945b11449/) -->
-<!-- [codewars]: https://www.codewars.com/users/acrumx -->
+[<img align="left" alt="LinkedIn | LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />](https://www.linkedin.com/in/austin-c-945b11449/)
+[<img align="left" alt="Hackerrank | HackerRank" height="40px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/profile/acrumx)
 ![Codewars Badge](https://www.codewars.com/users/acrumx/badges/large)
 
 <!--
