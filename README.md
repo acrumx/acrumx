@@ -1,45 +1,22 @@
-<h1>Welcome to Austin's GitHub. 👋 Austin is currently in the lab working on some exciting projects. Follow for updates! <br/><a href="https://github.com/acrumx"></h1>
+# Hi, I'm Austin 👋 
 
+### Data & Business Analyst | B.S. Applied Business Analytics
+I specialize in transforming messy data into actionable business insights. With a background in Applied Business Analytics and Six Sigma process improvement (SSYB & LSSYB), I build pipelines, analyze trends, and create dashboards that drive strategic decision-making.
 
+---
 
-- <b>Python</b>
-  - [Practicing DS & Algorithms in Python](https://github.com/acrumx/Python-Code-Practice)
-  - [Script Collection](https://github.com/acrumx/Python-Script-Collection)
-- <b>Microsoft Excel</b>
-  - [Excel Data Analysis](https://github.com/acrumx/Excel-Data-Analysis)
-- <b>R</b>
-  - [R Data Analysis](https://github.com/acrumx/R)
-- <b>SQL</b>
-  - [Practicing SQL Queries](https://github.com/acrumx/SQL-Code-Practice)
-- <b>Tableau</b>
-  - [Joes Coin Shop Project](https://github.com/acrumx/Joes-Coin-Shop)
-- <b>IBM SPSS Modeler</b>
-  - [Machine Learning Association Rules](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Association%20Rules)
-  - [Machine Learning Logistic Regression](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/ML-Logistic-Regression)
-  - [Machine Learning Regression Analysis](https://github.com/acrumx/IBM-SPSS-Modeler-Projects/tree/main/Regression%20Analysis)
+### 🛠️ Technical Arsenal
 
+* **Programming & Scripting:** Python, SQL, R, Git, Bash, PowerShell HTML, CSS
+* **Python Libraries:** Pandas, NumPy, SciPy, Matplotlib, Plotly, PySpark, openpyxl, Selenium, Beautiful Soup, prophet
+* **Business Intelligence:** Tableau, Power BI, Microsoft Excel, Minitab, Grafana
+* **Data Engineering & DB:** PostgreSQL, MySQL, Ms SQL Server, Pandas, ETL Pipelines
+* **Business Analytics:** Process Improvement (Six Sigma), Statistical Analysis, Predictive Modeling, Dashboards, A/B Testing, KPIs,
 
-- <b>C++
-  - [Follow My Journey Learning C++](https://github.com/acrumx/LearningCPP)👈</b>
+---
 
-<h2>Wanna Learn More?:🔗</h2>
+### 📫 Let's Connect
 
-[<img align="left" alt="LinkedIn | LinkedIn" width="40px" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-64.png" />](https://www.linkedin.com/in/acrumx/)
-[<img align="left" alt="Hackerrank | HackerRank" height="40px" src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" />](https://www.hackerrank.com/profile/acrumx)
-
-![Codewars Badge](https://www.codewars.com/users/acrumx/badges/large)
-
-<!--
-**acrumx/acrumx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/acrumx/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/austincrumrine)
+[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-red?logo=codewars)](https://www.codewars.com/users/acrumx)
