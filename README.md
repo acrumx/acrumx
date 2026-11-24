@@ -12,11 +12,3 @@ I specialize in transforming messy data into actionable business insights. With 
 * **Business Intelligence:** Tableau, Power BI, Microsoft Excel, Minitab, Grafana
 * **Data Engineering & DB:** PostgreSQL, MySQL, Ms SQL Server, Pandas, ETL Pipelines
 * **Business Analytics:** Process Improvement (Six Sigma), Statistical Analysis, Predictive Modeling, Dashboards, A/B Testing, KPIs,
-
----
-
-### 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/acrumx/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle)](https://www.kaggle.com/austincrumrine)
-[![CodeWars](https://img.shields.io/badge/CodeWars-Profile-red?logo=codewars)](https://www.codewars.com/users/acrumx)
